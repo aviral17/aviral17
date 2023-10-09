@@ -1,4 +1,4 @@
-[![MasterHead](https://www.sana-seo.com/wp-content/uploads/2022/03/web-development.gif)]
+![MasterHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)
 <h1 align="center">Hi 👋, I'm AVIRAL</h1>
 <h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">

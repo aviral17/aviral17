@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)
 <h1 align="center">Hi 👋, I'm AVIRAL</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Research Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviral17&label=Profile%20views&color=0e75b6&style=flat" alt="aviral17" /> </p>
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **ChatGPT Clone**
 
-- 🌱 I’m currently learning **AWS and Deep LEarning**
+- 🌱 I’m currently learning **AWS and Deep Learning**
 
 - 💬 Ask me about **Machine Learning, Python, Statistics, Mathematics**
 

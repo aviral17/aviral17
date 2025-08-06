@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **ChatGPT Clone**
 
-- 🌱 I’m currently learning **AWS and React-Native**
+- 🌱 I’m currently learning **AWS and Deep LEarning**
 
-- 💬 Ask me about **MERN, Python**
+- 💬 Ask me about **Machine Learning, Python, Statistics, Mathematics**
 
 - 📫 How to reach me **avi14320@gmail.com**
 
